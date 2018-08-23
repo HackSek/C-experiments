@@ -5,6 +5,7 @@ int main(int argc, char *argv[]) {
 	int myInt = 25;
 
 	/*
+	 * A pointer is a variable whose value is the address of another variable.
 	 * the address-of operator "&" allows us to select the memory address in which the variable 'myInt' is stored.
 	 * we then assign that memory address to a variable called 'myPointer'.
 	 * we specify a pointer data type by inserting an asterisk before the variable name.
