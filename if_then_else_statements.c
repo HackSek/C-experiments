@@ -23,7 +23,7 @@ int main(int argc, char *argv[]) {
 
 	/*
 	 * The if/else statement is one of many "Conditional" Statements
-	 * sets of commands within those statements are executed based on different conditions, only if they're met.
+	 * sets of commands within these statements are executed based on different conditions, only if they're met.
 	 */
 	
 	return 0;
