@@ -19,6 +19,7 @@ int main(int argc, char *argv[]) {
 	int b;
 	scanf("%d", &b);
 
+	// This is an example of how to call the function and assigned its returned value to a variable.
 	int returned_value = multiplication(a, b);
 	printf("the product of those two numbers is %d.\n", returned_value);
 
