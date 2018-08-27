@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
 	my_struct.my_struct_num = 10;
 	my_struct.my_struct_float = 0.1;
 
-	printf("%f // %d\n", my_struct.my_struct_float, my_struct.my_struct_num);
+	printf("%f, %d\n", my_struct.my_struct_float, my_struct.my_struct_num);
 
 	return 0;
 
